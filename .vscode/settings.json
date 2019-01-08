@@ -1,0 +1,6 @@
+{
+    "files.defaultLanguage": ".rb",
+    "files.trimTrailingWhitespace": true,
+    "workbench.editor.swipeToNavigate": true,
+    "editor.tabSize": 2
+}
